@@ -1,0 +1,18 @@
+Added Pin To Net: NetName=Cross_Black Pin=C5-1
+Added Pin To Net: NetName=Long_Black Pin=C9-1
+Added Pin To Net: NetName=Cross_Blue Pin=U2-1
+Added Pin To Net: NetName=Cross_Blue Pin=U2-4
+Added Pin To Net: NetName=Long_Blue Pin=U4-1
+Added Pin To Net: NetName=Long_Blue Pin=U4-4
+Added Member To Class: ClassName=U_Levels Member=Component C1 470nF
+Added Member To Class: ClassName=U_Levels Member=Component C2 .1uF
+Added Member To Class: ClassName=U_Levels Member=Component C3 470nF
+Added Member To Class: ClassName=U_Levels Member=Component C4 2.2uF
+Added Member To Class: ClassName=U_Levels Member=Component U1 MAX333CWP+
+Added Member To Class: ClassName=U_Levels Member=Component U2 OPA188AIDBVR
+Added Member To Class: ClassName=U_Levels Member=Component U3 LT3483ES6#TRPBF
+Added Member To Class: ClassName=U_Levels Member=Component U4 OPA188AIDBVR
+Added Member To Class: ClassName=U_Levels Member=Component U5 LTC1967
+Added Member To Class: ClassName=U_Levels Member=Component U6 OPA188AIDBVR
+Added Member To Class: ClassName=U_Levels Member=Component U7 LTC1967
+Added Member To Class: ClassName=U_Levels Member=Component U8 OPA188AIDBVR

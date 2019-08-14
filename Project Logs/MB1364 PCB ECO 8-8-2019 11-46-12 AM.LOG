@@ -1,0 +1,20 @@
+Added Component: Designator=Q?(*VISHAY_SIS468DN-T1-GE3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "SI7611DN-T1-GE3CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.com/product-detail/en/vishay-siliconix/SI7611DN-T1-GE3/SI7611DN-T1-GE3CT-ND/1978912?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Vishay Siliconix"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SI7611DN-T1-GE3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "PowerPAK®-1212 Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SI7611DN-T1-GE3/Vishay%20Siliconix/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetQ?_1 Pin=Q?-1
+Added Pin To Net: NetName=NetQ?_1 Pin=Q?-2
+Added Pin To Net: NetName=NetQ?_1 Pin=Q?-3
+Added Net: Name=NetQ?_1
+Added Pin To Net: NetName=NetQ?_5 Pin=Q?-5
+Added Pin To Net: NetName=NetQ?_5 Pin=Q?-6
+Added Pin To Net: NetName=NetQ?_5 Pin=Q?-7
+Added Pin To Net: NetName=NetQ?_5 Pin=Q?-8
+Added Pin To Net: NetName=NetQ?_5 Pin=Q?-9
+Added Net: Name=NetQ?_5
+Added Member To Class: ClassName=U_Heaters Member=Component Q? SI7611DN-T1-GE3

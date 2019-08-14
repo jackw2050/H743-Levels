@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=P1 Old Footprint=IPL1-103-01-F-D New Footprint=SAMTEC-TFM-103-02-X-D-A
+Change Component Comment : Designator=P1 Old Comment=TFM-103-01 New Comment=SAMTEC-TFM-103-02-X-D-AJ
+Change component parameters: Designator = "P1"; Footprint = "SAMTEC-TFM-103-02-X-D-A"; UniqueID = "\GBDGWMKA"
+Change component parameters. Clean all parameters for all variants

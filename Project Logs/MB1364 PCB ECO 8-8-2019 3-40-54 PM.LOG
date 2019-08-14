@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=Gearbox Heater Pin=U1-3
+Removed Pin From Net: NetName=Conning Tower Heater Pin=U1-5
+Added Pin To Net: NetName=Conning Tower Heater Pin=U1-3
+Added Pin To Net: NetName=Gearbox Heater Pin=U1-5
+Change Net Name : Old Net Name=Conning Tower Heater FET New Net Name=Gearbox Heater FET
+Change Net Name : Old Net Name=Gearbox Heater FET New Net Name=Conning Tower Heater FET

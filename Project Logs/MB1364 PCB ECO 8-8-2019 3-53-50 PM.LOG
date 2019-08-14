@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=Meter Heater Pin=U1-9
+Removed Pin From Net: NetName=Board2 Heater Pin=U1-14
+Added Pin To Net: NetName=Board2 Heater Pin=U1-9
+Added Pin To Net: NetName=Meter Heater Pin=U1-14
+Change Net Name : Old Net Name=Board2 Heater FET New Net Name=Meter Heater FET
+Change Net Name : Old Net Name=Meter Heater FET New Net Name=Board2 Heater FET

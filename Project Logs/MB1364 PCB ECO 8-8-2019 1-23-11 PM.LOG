@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=Gearbox Heater FET Pin=P2-1
+Removed Pin From Net: NetName=Conning Tower Heater FET Pin=P2-5
+Removed Pin From Net: NetName=Arrestment Heater FET Pin=P2-9
+Removed Pin From Net: NetName=Board1 Heater FET Pin=P2-13
+Removed Pin From Net: NetName=Meter Heater FET Pin=P2-17
+Removed Pin From Net: NetName=Board1 Heater FET Pin=P2-21
+Removed Pin From Net: NetName=+12 Pin=P2-23
+Removed Pin From Net: NetName=Board2 Heater FET Pin=P2-25
+Removed Pin From Net: NetName=+12 Pin=P2-27
+Removed Pin From Net: NetName=Board2 Thermistor Pin=P2-30
+Added Pin To Net: NetName=Gearbox Htr Out Pin=P2-1
+Added Pin To Net: NetName=Conning Tower Htr Out Pin=P2-5
+Added Pin To Net: NetName=Arrestment Htr Out Pin=P2-9
+Added Pin To Net: NetName=Meter_Htr_Out Pin=P2-13
+Added Pin To Net: NetName=Board1 Htr Out Pin=P2-17
+Added Pin To Net: NetName=Board2 Heater FET Pin=P2-21
+Added Pin To Net: NetName=Board2 Thermistor Pin=P2-27

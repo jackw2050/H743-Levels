@@ -1,0 +1,51 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\zls\Desktop\H743-Levels\MB1364.PcbDoc
+Date     : 8/12/2019
+Time     : 11:38:45 AM
+
+Processing Rule : Clearance Constraint (Gap=0.12mm) (InNetClass('NC_USB_DIFF_90R')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.12mm) (InNetClass('NC_VCP_ISO300')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.12mm) (InNetClass('NC_RMII_SINGLE_50R')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.12mm) (InNetClass('NC_RXTX_DIFF_100R')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.12mm) (InNetClass('NC_STLK_W200-ISO200')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.12mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.12mm) (InNetClass('NC_USB_DIFF_90R_OPTION')),(OnLayer('Signal Layer 2'))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.12mm) (InNetClass('NC_USB_DIFF_90R_OPTION')),(OnLayer('Top Layer'))
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Component Clearance Constraint ( Horizontal Gap = 0mm, Vertical Gap = 0mm ) (All),(All) 
+Rule Violations :0
+
+
+Violations Detected : 0
+Waived Violations : 0
+Time Elapsed        : 00:00:04

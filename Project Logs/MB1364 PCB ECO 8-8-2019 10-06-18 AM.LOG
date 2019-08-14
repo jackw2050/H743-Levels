@@ -1,0 +1,169 @@
+Removed Pin From Net: NetName=Cross_Yellow Pin=C1-2
+Removed Pin From Net: NetName=Cross_Yellow Pin=C2-1
+Removed Pin From Net: NetName=+5 Pin=C3-1
+Removed Pin From Net: NetName=Cross_Yellow Pin=C3-2
+Removed Pin From Net: NetName=+5 Pin=C4-1
+Removed Pin From Net: NetName=Cross_Yellow Pin=C4-2
+Removed Pin From Net: NetName=Cross_Yellow Pin=C5-2
+Removed Pin From Net: NetName=Conning Tower Thermistor Pin=P3-1
+Removed Pin From Net: NetName=Cross_Yellow Pin=P3-2
+Removed Pin From Net: NetName=+12 Pin=P4-1
+Removed Pin From Net: NetName=Gearbox Htr Out Pin=P4-2
+Removed Pin From Net: NetName=Gearbox Thermistor Pin=P5-1
+Removed Pin From Net: NetName=Cross_Yellow Pin=P5-2
+Removed Pin From Net: NetName=+12 Pin=P6-1
+Removed Pin From Net: NetName=Conning Tower Htr Out Pin=P6-2
+Removed Pin From Net: NetName=+12 Pin=P7-1
+Removed Pin From Net: NetName=Arrestment Htr Out Pin=P7-2
+Removed Pin From Net: NetName=Arrestment Thermistor Pin=P8-1
+Removed Pin From Net: NetName=Cross_Yellow Pin=P8-2
+Removed Pin From Net: NetName=+12 Pin=P9-1
+Removed Pin From Net: NetName=Meter_Htr_Out Pin=P9-2
+Removed Pin From Net: NetName=+12 Pin=P10-1
+Removed Pin From Net: NetName=Board1 Htr Out Pin=P10-2
+Removed Pin From Net: NetName=Meter Thermistor 2 Pin=P11-1
+Removed Pin From Net: NetName=Cross_Yellow Pin=P11-2
+Removed Pin From Net: NetName=Meter Thermistor 1 Pin=P11-3
+Removed Pin From Net: NetName=Cross_Yellow Pin=P11-4
+Removed Pin From Net: NetName=+12 Pin=P12-1
+Removed Pin From Net: NetName=Board2 Htr Out Pin=P12-2
+Removed Pin From Net: NetName=Board1 Thermistor Pin=P13-1
+Removed Pin From Net: NetName=Cross_Yellow Pin=P13-2
+Removed Pin From Net: NetName=Board2 Thermistor Pin=P14-1
+Removed Pin From Net: NetName=Cross_Yellow Pin=P14-2
+Removed Pin From Net: NetName=Cross_Yellow Pin=P15-1
+Removed Pin From Net: NetName=Cross_Yellow Pin=P15-2
+Removed Pin From Net: NetName=-5 Pin=P15-3
+Removed Pin From Net: NetName=Meter Heater FET Pin=P15-13
+Removed Pin From Net: NetName=Conning Tower Heater FET Pin=P15-14
+Removed Pin From Net: NetName=Gearbox Heater FET Pin=P15-15
+Removed Pin From Net: NetName=Arrestment Heater FET Pin=P15-16
+Removed Pin From Net: NetName=Board1 Heater FET Pin=P15-17
+Removed Pin From Net: NetName=Board2 Heater FET Pin=P15-18
+Removed Pin From Net: NetName=+5 Pin=P15-19
+Removed Pin From Net: NetName=+12 Pin=P15-21
+Removed Pin From Net: NetName=+12 Pin=P15-22
+Removed Pin From Net: NetName=Cross_Yellow Pin=P15-23
+Removed Pin From Net: NetName=Cross_Yellow Pin=P15-24
+Removed Pin From Net: NetName=Lid Thermistor Pin=P16-1
+Removed Pin From Net: NetName=Cross_Yellow Pin=P16-2
+Removed Pin From Net: NetName=Cross_Yellow Pin=U1-2
+Removed Pin From Net: NetName=+5 Pin=U1-3
+Removed Pin From Net: NetName=+5 Pin=U1-4
+Removed Pin From Net: NetName=+5 Pin=U2-1
+Removed Pin From Net: NetName=Cross_Yellow Pin=U2-12
+Removed Pin From Net: NetName=+5 Pin=U2-18
+Removed Pin From Net: NetName=Lid Thermistor Pin=U2-19
+Removed Pin From Net: NetName=Arrestment Thermistor Pin=U2-20
+Removed Pin From Net: NetName=Gearbox Thermistor Pin=U2-21
+Removed Pin From Net: NetName=Conning Tower Thermistor Pin=U2-22
+Removed Pin From Net: NetName=Meter Thermistor 2 Pin=U2-23
+Removed Pin From Net: NetName=Meter Thermistor 1 Pin=U2-24
+Removed Pin From Net: NetName=Board1 Thermistor Pin=U2-25
+Removed Pin From Net: NetName=Board2 Thermistor Pin=U2-26
+Removed Pin From Net: NetName=Cross_Yellow Pin=U2-27
+Removed Pin From Net: NetName=Cross_Yellow Pin=U3-2
+Removed Pin From Net: NetName=Cross_Yellow Pin=U3-4
+Removed Pin From Net: NetName=+5 Pin=U3-7
+Removed Pin From Net: NetName=Cross_Yellow Pin=U3-8
+Removed Member From Class: ClassName=U_Heaters Member=C8
+Removed Member From Class: ClassName=U_Heaters Member=C13
+Removed Member From Class: ClassName=U_Heaters Member=C16
+Removed Member From Class: ClassName=U_Heaters Member=C17
+Removed Member From Class: ClassName=U_Heaters Member=C18
+Removed Member From Class: ClassName=U_Heaters Member=P2
+Removed Member From Class: ClassName=U_Heaters Member=P3
+Removed Member From Class: ClassName=U_Heaters Member=P4
+Removed Member From Class: ClassName=U_Heaters Member=P5
+Removed Member From Class: ClassName=U_Heaters Member=P6
+Removed Member From Class: ClassName=U_Heaters Member=P7
+Removed Member From Class: ClassName=U_Heaters Member=P8
+Removed Member From Class: ClassName=U_Heaters Member=P9
+Removed Member From Class: ClassName=U_Heaters Member=P10
+Removed Member From Class: ClassName=U_Heaters Member=P11
+Removed Member From Class: ClassName=U_Heaters Member=P12
+Removed Member From Class: ClassName=U_Heaters Member=P13
+Removed Member From Class: ClassName=U_Heaters Member=P14
+Removed Member From Class: ClassName=U_Heaters Member=P15
+Removed Member From Class: ClassName=U_Heaters Member=P16
+Removed Member From Class: ClassName=U_Heaters Member=U4
+Removed Member From Class: ClassName=U_Heaters Member=U5
+Removed Member From Class: ClassName=U_Heaters Member=U6
+Added Component: Designator=P?(HDR2X15H)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/23730/tfm-1xx-xx-xxx-x-xxx-mkt-23730881.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/23730/tfm-1xx-xx-xxx-x-xxx-mkt-23730881.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/11748/0900766b803e8a8f-11748828.pdf?src-supplier=RSComponents"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/11748/0900766b803e8a8f-11748828.pdf?src-supplier=RSComponents"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/22665/1909334-22665886.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/22665/1909334-22665886.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Bronze"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "5.72mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "Polymer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "22.23mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TFM-115-02-S-D-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Voltage Rating (AC)"; Value = "350V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "30"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Straight"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "1.27mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=6.02000, 26=5.27115, 104=4.76904, 520=4.01600, 1014=3.51400 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "262"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "SAM10140-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "350V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Gearbox Heater FET Pin=P?-1
+Added Pin To Net: NetName=Lid Thermistor Pin=P?-2
+Added Pin To Net: NetName=+12 Pin=P?-3
+Added Pin To Net: NetName=Cross_Yellow Pin=P?-4
+Added Pin To Net: NetName=Conning Tower Heater FET Pin=P?-5
+Added Pin To Net: NetName=Gearbox Thermistor Pin=P?-6
+Added Pin To Net: NetName=+12 Pin=P?-7
+Added Pin To Net: NetName=Cross_Yellow Pin=P?-8
+Added Pin To Net: NetName=Arrestment Heater FET Pin=P?-9
+Added Pin To Net: NetName=Arrestment Thermistor Pin=P?-10
+Added Pin To Net: NetName=+12 Pin=P?-11
+Added Pin To Net: NetName=Cross_Yellow Pin=P?-12
+Added Pin To Net: NetName=Board1 Heater FET Pin=P?-13
+Added Pin To Net: NetName=Conning Tower Thermistor Pin=P?-14
+Added Pin To Net: NetName=+12 Pin=P?-15
+Added Pin To Net: NetName=Cross_Yellow Pin=P?-16
+Added Pin To Net: NetName=Meter Heater FET Pin=P?-17
+Added Pin To Net: NetName=Meter Thermistor 1 Pin=P?-18
+Added Pin To Net: NetName=+12 Pin=P?-19
+Added Pin To Net: NetName=Cross_Yellow Pin=P?-20
+Added Pin To Net: NetName=Board1 Heater FET Pin=P?-21
+Added Pin To Net: NetName=Meter Thermistor 2 Pin=P?-22
+Added Pin To Net: NetName=+12 Pin=P?-23
+Added Pin To Net: NetName=Cross_Yellow Pin=P?-24
+Added Pin To Net: NetName=Board2 Heater FET Pin=P?-25
+Added Pin To Net: NetName=Board1 Thermistor Pin=P?-26
+Added Pin To Net: NetName=+12 Pin=P?-27
+Added Pin To Net: NetName=Cross_Yellow Pin=P?-28
+Added Pin To Net: NetName=Cross_Yellow Pin=P?-29
+Added Pin To Net: NetName=Board2 Thermistor Pin=P?-30
+Added Member To Class: ClassName=U_Levels Member=Component C6 470nF
+Added Member To Class: ClassName=U_Levels Member=Component C7 .1uF
+Added Member To Class: ClassName=U_Levels Member=Component C9 2.2uF
+Added Member To Class: ClassName=U_Levels Member=Component C10 470nF
+Added Member To Class: ClassName=U_Levels Member=Component C11 2.2uF
+Added Member To Class: ClassName=U_Levels Member=Component C12 .22uF
+Added Member To Class: ClassName=U_Heaters Member=Component P? TFM-115-02-S-D-A 
+Added Member To Class: ClassName=U_Levels Member=Component U8 LT3483ES6#TRPBF
+Added Member To Class: ClassName=U_Levels Member=Component U9 LTC1967
+Added Room: Name=U_Heaters

@@ -1,0 +1,17 @@
+Added Pin To Net: NetName=Conning Tower Heater FET Pin=R4-1
+Added Pin To Net: NetName=Meter Heater FET Pin=R5-1
+Added Pin To Net: NetName=Arrestment Heater FET Pin=R9-1
+Added Pin To Net: NetName=Gearbox Heater FET Pin=R10-1
+Added Pin To Net: NetName=Board1 Heater FET Pin=R16-1
+Added Pin To Net: NetName=Board2 Heater FET Pin=R17-1
+Added Pin To Net: NetName=PG5 Pin=U1-3
+Added Pin To Net: NetName=PG4 Pin=U1-5
+Added Pin To Net: NetName=PG3 Pin=U1-7
+Added Pin To Net: NetName=PG2 Pin=U1-9
+Added Pin To Net: NetName=PD15 Pin=U1-11
+Change Net Name : Old Net Name=Arrestment Thermistor New Net Name=PA3
+Change Net Name : Old Net Name=Board1 Thermistor New Net Name=PF7
+Change Net Name : Old Net Name=Board2 Thermistor New Net Name=PF5
+Change Net Name : Old Net Name=Conning Tower Thermistor New Net Name=PB1
+Change Net Name : Old Net Name=Gearbox Thermistor New Net Name=PC0
+Change Net Name : Old Net Name=Lid Thermistor New Net Name=PF9

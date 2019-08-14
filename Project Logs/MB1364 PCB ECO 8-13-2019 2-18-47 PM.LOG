@@ -1,0 +1,19 @@
+Added Component: Designator=P3(SAMTEC-TFM-108-01-X-D-A)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=PF3 Pin=P3-1
+Added Pin To Net: NetName=PD5 Pin=P3-2
+Added Pin To Net: NetName=+3.3 Pin=P3-3
+Added Pin To Net: NetName=PD4 Pin=P3-4
+Added Pin To Net: NetName=PA15 Pin=P3-5
+Added Pin To Net: NetName=PD0 Pin=P3-6
+Added Pin To Net: NetName=PC10 Pin=P3-7
+Added Pin To Net: NetName=PC12 Pin=P3-8
+Added Pin To Net: NetName=PB4 Pin=P3-9
+Added Pin To Net: NetName=PD2 Pin=P3-10
+Added Pin To Net: NetName=PB2 Pin=P3-11
+Added Pin To Net: NetName=PD3 Pin=P3-12
+Added Pin To Net: NetName=+5 Pin=P3-13
+Added Pin To Net: NetName=PD1 Pin=P3-14
+Added Pin To Net: NetName=GND Pin=P3-15
+Added Pin To Net: NetName=GND Pin=P3-16
+Added Member To Class: ClassName=Connectors Member=Component P3 SAMTEC-TFM-108-01-X-D-AJ

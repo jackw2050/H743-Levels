@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=P? Old Footprint=TFM-115-02-S-D-A New Footprint=TFM-115-02-S-D-A - duplicate
+Change Component Designator: OldDesignator=P? NewDesignator=P2
+Change Component Designator: OldDesignator=Q? NewDesignator=Q7
+Change Net Name : Old Net Name=NetQ?_1 New Net Name=NetQ7_1
+Change Net Name : Old Net Name=NetQ?_5 New Net Name=NetQ7_5

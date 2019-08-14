@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=Board2 Heater FET Pin=P2-21
+Removed Pin From Net: NetName=Board2 Thermistor Pin=P2-27
+Removed Pin From Net: NetName=Cross_Yellow Pin=P2-29
+Added Pin To Net: NetName=Board2 Htr Out Pin=P2-21
+Added Pin To Net: NetName=Cross_Yellow Pin=P2-27
+Added Pin To Net: NetName=Board2 Thermistor Pin=P2-29

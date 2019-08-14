@@ -1,0 +1,138 @@
+Removed Pin From Net: NetName=GND Pin=C1-1
+Removed Pin From Net: NetName=GND Pin=C2-1
+Removed Pin From Net: NetName=GND Pin=C3-2
+Removed Pin From Net: NetName=GND Pin=C4-2
+Removed Pin From Net: NetName=GND Pin=C15-1
+Removed Pin From Net: NetName=GND Pin=C16-1
+Removed Pin From Net: NetName=GND Pin=C17-1
+Removed Pin From Net: NetName=GND Pin=C18-1
+Removed Pin From Net: NetName=GND Pin=C22-1
+Removed Pin From Net: NetName=GND Pin=C24-2
+Removed Pin From Net: NetName=GND Pin=C25-1
+Removed Pin From Net: NetName=GND Pin=C26-1
+Removed Pin From Net: NetName=GND Pin=C27-1
+Removed Pin From Net: NetName=GND Pin=C28-2
+Removed Pin From Net: NetName=GND Pin=C29-1
+Removed Pin From Net: NetName=GND Pin=C30-2
+Removed Pin From Net: NetName=GND Pin=C31-1
+Removed Pin From Net: NetName=GND Pin=C37-1
+Removed Pin From Net: NetName=GND Pin=C38-1
+Removed Pin From Net: NetName=GND Pin=C39-1
+Removed Pin From Net: NetName=GND Pin=C40-1
+Removed Pin From Net: NetName=GND Pin=C93-1
+Removed Pin From Net: NetName=GND Pin=C94-1
+Removed Pin From Net: NetName=GND Pin=C95-1
+Removed Pin From Net: NetName=GND Pin=C96-1
+Removed Pin From Net: NetName=GND Pin=C99-1
+Removed Pin From Net: NetName=GND Pin=C100-1
+Removed Pin From Net: NetName=GND Pin=R4-2
+Removed Pin From Net: NetName=GND Pin=R15-1
+Removed Pin From Net: NetName=GND Pin=R17-1
+Removed Pin From Net: NetName=GND Pin=R40-1
+Removed Pin From Net: NetName=GND Pin=R63-1
+Removed Pin From Net: NetName=GND Pin=R69-2
+Removed Pin From Net: NetName=GND Pin=R74-1
+Removed Pin From Net: NetName=GND Pin=R75-1
+Removed Pin From Net: NetName=GND Pin=R135-2
+Removed Pin From Net: NetName=GND Pin=R141-2
+Removed Pin From Net: NetName=GND Pin=R142-2
+Removed Pin From Net: NetName=GND Pin=R143-1
+Removed Pin From Net: NetName=GND Pin=TP12-1
+Removed Pin From Net: NetName=GND Pin=U1-3
+Removed Pin From Net: NetName=GND Pin=U1-4
+Removed Pin From Net: NetName=GND Pin=U2-3
+Removed Pin From Net: NetName=GND Pin=U3-8
+Removed Pin From Net: NetName=GND Pin=U3-9
+Removed Pin From Net: NetName=GND Pin=U4-5
+Removed Pin From Net: NetName=GND Pin=U4-6
+Removed Pin From Net: NetName=GND Pin=U4-9
+Removed Pin From Net: NetName=GND Pin=U5-2
+Removed Pin From Net: NetName=GND Pin=U6-6
+Removed Pin From Net: NetName=GND Pin=U6-8
+Removed Pin From Net: NetName=GND Pin=U6-9
+Removed Pin From Net: NetName=GND Pin=U6-10
+Removed Pin From Net: NetName=GND Pin=U6-11
+Removed Pin From Net: NetName=GND Pin=U7-2
+Removed Pin From Net: NetName=GND Pin=U7-6
+Removed Pin From Net: NetName=GND Pin=U7-7
+Removed Pin From Net: NetName=GND Pin=U7-12
+Removed Pin From Net: NetName=GND Pin=U9-2
+Removed Pin From Net: NetName=GND Pin=U10-2
+Removed Pin From Net: NetName=GND Pin=U11-5
+Removed Pin From Net: NetName=GND Pin=U12-2
+Removed Pin From Net: NetName=GND Pin=U13-4
+Removed Pin From Net: NetName=GND Pin=U14-5
+Removed Pin From Net: NetName=GND Pin=U16-2
+Removed Pin From Net: NetName=GND Pin=U17-4
+Removed Pin From Net: NetName=GND Pin=U25-1
+Removed Pin From Net: NetName=GND Pin=U25-2
+Removed Pin From Net: NetName=GND Pin=U25-3
+Removed Pin From Net: NetName=GND Pin=U25-4
+Removed Pin From Net: NetName=GND Pin=U25-5
+Removed Pin From Net: NetName=GND Pin=U25-6
+Removed Pin From Net: NetName=GND Pin=U25-7
+Removed Pin From Net: NetName=GND Pin=U25-8
+Removed Pin From Net: NetName=GND Pin=U25-9
+Removed Pin From Net: NetName=GND Pin=U25-10
+Removed Pin From Net: NetName=GND Pin=U25-14
+Removed Pin From Net: NetName=GND Pin=U25-19
+Removed Pin From Net: NetName=GND Pin=U26-2
+Removed Pin From Net: NetName=GND Pin=U27-2
+Added Component: Designator=P1(IPL1-103-01-F-D)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Applications"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Connectors, Interconnects"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://suddendocs.samtec.com/prints/ipl1-1xx-xx-xxx-d-xx-x-xx-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://suddendocs.samtec.com/prints/ipl1-1xx-xx-xxx-d-xx-x-xx-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish - Mating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish - Post"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish Thickness - Mating"; Value = "10.0µin (0.25µm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish Thickness - Post"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Length - Mating"; Value = "0.215" (5.46mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Length - Post"; Value = "0.120" (3.05mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Phosphor Bronze"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Shape"; Value = "Square"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fastening Type"; Value = "Locking Ramp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ingress Protection"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Color"; Value = "Natural"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Height"; Value = "0.320" (8.13mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Material"; Value = "Liquid Crystal Polymer (LCP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samtec Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "IPL1-103-01-L-D-K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mated Stacking Heights"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material Flammability Rating"; Value = "UL94 V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions Loaded"; Value = "All"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Overall Contact Length"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tube"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch - Mating"; Value = "0.100" (2.54mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=2.6, 63=2.18397, 126=2.08, 504=1.768, 1008=1.508, 5040=1.352 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "RoHS Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing - Mating"; Value = "0.100" (2.54mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shrouding"; Value = "Shrouded - 4 Wall"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "281"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Style"; Value = "Board to Cable/Wire"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "SAM9594-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "675VAC, 954VDC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P1-2
+Change Net Name : Old Net Name=GND New Net Name=Cross_Yellow
+Added Pin To Net: NetName=Cross_Black Pin=P1-3
+Added Net: Name=Cross_Black
+Added Pin To Net: NetName=Cross_Blue Pin=P1-5
+Added Net: Name=Cross_Blue
+Added Pin To Net: NetName=Long_Black Pin=P1-4
+Added Net: Name=Long_Black
+Added Pin To Net: NetName=Long_Blue Pin=P1-6
+Added Net: Name=Long_Blue
+Added Member To Class: ClassName=U_Connectors Member=Component P1 IPL1-103-01-L-D-K

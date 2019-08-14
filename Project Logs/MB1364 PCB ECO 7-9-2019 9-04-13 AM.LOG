@@ -1,0 +1,108 @@
+Removed Pin From Net: NetName=GND Pin=C73-1
+Removed Pin From Net: NetName=VDD_MCU Pin=C73-2
+Removed Pin From Net: NetName=GND Pin=C74-1
+Removed Pin From Net: NetName=GND Pin=C75-1
+Removed Pin From Net: NetName=GND Pin=C76-1
+Removed Pin From Net: NetName=GND Pin=C77-1
+Removed Pin From Net: NetName=GND Pin=C78-1
+Removed Pin From Net: NetName=GND Pin=C79-2
+Removed Pin From Net: NetName=GND Pin=C80-1
+Removed Pin From Net: NetName=GND Pin=C81-1
+Removed Pin From Net: NetName=GND Pin=C82-1
+Removed Pin From Net: NetName=GND Pin=C83-1
+Removed Pin From Net: NetName=3V3_PER Pin=L1-2
+Removed Pin From Net: NetName=VDD_MCU Pin=R40-2
+Removed Pin From Net: NetName=RMII_CRS_DV Pin=R41-1
+Removed Pin From Net: NetName=GND Pin=R42-2
+Removed Pin From Net: NetName=VDD_MCU Pin=R43-2
+Removed Pin From Net: NetName=RMII_RXD0 Pin=R44-1
+Removed Pin From Net: NetName=RMII_RXD1 Pin=R45-1
+Removed Pin From Net: NetName=VDD_MCU Pin=R46-2
+Removed Pin From Net: NetName=RMII_MDIO Pin=R47-1
+Removed Pin From Net: NetName=VDD_MCU Pin=R47-2
+Removed Pin From Net: NetName=VDD_MCU Pin=R48-2
+Removed Pin From Net: NetName=RMII_REF_CLK Pin=R49-1
+Removed Pin From Net: NetName=GND Pin=R51-2
+Removed Pin From Net: NetName=GND Pin=R57-1
+Removed Pin From Net: NetName=GND Pin=R58-1
+Removed Pin From Net: NetName=GND Pin=R59-1
+Removed Pin From Net: NetName=NRST Pin=SB74-1
+Removed Pin From Net: NetName=GND Pin=SB78-2
+Removed Pin From Net: NetName=GND Pin=SB79-2
+Removed Pin From Net: NetName=VDD_MCU Pin=U15-9
+Removed Pin From Net: NetName=RMII_MDIO Pin=U15-12
+Removed Pin From Net: NetName=RMII_MDC Pin=U15-13
+Removed Pin From Net: NetName=RMII_TX_EN Pin=U15-16
+Removed Pin From Net: NetName=RMII_TXD0 Pin=U15-17
+Removed Pin From Net: NetName=RMII_TXD1 Pin=U15-18
+Removed Pin From Net: NetName=GND Pin=U15-EP
+Removed Pin From Net: NetName=GND Pin=U16-2
+Removed Pin From Net: NetName=GND Pin=X4-2
+Removed Pin From Net: NetName=GND Pin=X4-4
+Change component parameters: Designator = "U14"; Footprint = "ICC_LQFP144_20X20_P050_SOCKET_YAMAICHI_IC149-144-145-B5_NM"; UniqueID = "\OUWECVDB\UIWQTVTY\IUDFBGBV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BMS_Part_Number"; Value = "9175347"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://tunmcdsvn.tun.st.com/Component_Datasheet_Library/Trunk/IC/STM_STM32L552ZET6QU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ECCN_EU"; Value = "NEC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ECCN_US"; Value = "3A991A2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Internal_Part_Number"; Value = "MCD-01349"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "STMICROELECTRONICS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "STM32H7A3ZIT6U"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "LQFP144"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part_Type"; Value = "IC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Provided_By"; Value = "SUBCO with ST control"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Status"; Value = "Released"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "STM32H7A3ZIT6U"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BMS_Part_Number"; Value = "9175293 (cut2.0)"; VariantName = "H743ZI"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "H743ZI"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://tunmcdsvn.tun.st.com/Component_Datasheet_Library/Trunk/IC/STM_STM32L552ZET6QU"; VariantName = "H743ZI"
+Change component parameters (AddParameter): Name = "ECCN_EU"; Value = "NEC"; VariantName = "H743ZI"
+Change component parameters (AddParameter): Name = "ECCN_US"; Value = "3A991A2"; VariantName = "H743ZI"
+Change component parameters (AddParameter): Name = "Internal_Part_Number"; Value = "MCD-01403"; VariantName = "H743ZI"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "STMICROELECTRONICS"; VariantName = "H743ZI"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "STM32H743ZIT6U"; VariantName = "H743ZI"
+Change component parameters (AddParameter): Name = "Package"; Value = "LQFP144"; VariantName = "H743ZI"
+Change component parameters (AddParameter): Name = "Part_Type"; Value = "IC"; VariantName = "H743ZI"
+Change component parameters (AddParameter): Name = "Provided_By"; Value = "SUBCO with ST control"; VariantName = "H743ZI"
+Change component parameters (AddParameter): Name = "Status"; Value = "Released"; VariantName = "H743ZI"
+Change component parameters (AddParameter): Name = "Value"; Value = "STM32H743ZIT6U"; VariantName = "H743ZI"
+Change component parameters (AddParameter): Name = "BMS_Part_Number"; Value = "9175347"; VariantName = "H7A3ZI"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "H7A3ZI"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://tunmcdsvn.tun.st.com/Component_Datasheet_Library/Trunk/IC/STM_STM32L552ZET6QU"; VariantName = "H7A3ZI"
+Change component parameters (AddParameter): Name = "ECCN_EU"; Value = "NEC"; VariantName = "H7A3ZI"
+Change component parameters (AddParameter): Name = "ECCN_US"; Value = "3A991A2"; VariantName = "H7A3ZI"
+Change component parameters (AddParameter): Name = "Internal_Part_Number"; Value = "MCD-01349"; VariantName = "H7A3ZI"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "STMICROELECTRONICS"; VariantName = "H7A3ZI"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "STM32H7A3ZIT6U"; VariantName = "H7A3ZI"
+Change component parameters (AddParameter): Name = "Package"; Value = "LQFP144"; VariantName = "H7A3ZI"
+Change component parameters (AddParameter): Name = "Part_Type"; Value = "IC"; VariantName = "H7A3ZI"
+Change component parameters (AddParameter): Name = "Provided_By"; Value = "SUBCO with ST control"; VariantName = "H7A3ZI"
+Change component parameters (AddParameter): Name = "Status"; Value = "Released"; VariantName = "H7A3ZI"
+Change component parameters (AddParameter): Name = "Value"; Value = "STM32H7A3ZIT6U"; VariantName = "H7A3ZI"
+Change component parameters (AddParameter): Name = "BMS_Part_Number"; Value = "9175345"; VariantName = "H7B3ZI"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "H7B3ZI"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://tunmcdsvn.tun.st.com/Component_Datasheet_Library/Trunk/IC/STM_STM32L552ZET6QU"; VariantName = "H7B3ZI"
+Change component parameters (AddParameter): Name = "ECCN_EU"; Value = "5A002A4"; VariantName = "H7B3ZI"
+Change component parameters (AddParameter): Name = "ECCN_US"; Value = "5A002A4"; VariantName = "H7B3ZI"
+Change component parameters (AddParameter): Name = "Internal_Part_Number"; Value = "MCD-01764"; VariantName = "H7B3ZI"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "STMICROELECTRONICS"; VariantName = "H7B3ZI"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "STM32H7B3ZIT6U"; VariantName = "H7B3ZI"
+Change component parameters (AddParameter): Name = "Package"; Value = "LQFP144"; VariantName = "H7B3ZI"
+Change component parameters (AddParameter): Name = "Part_Type"; Value = "IC"; VariantName = "H7B3ZI"
+Change component parameters (AddParameter): Name = "Provided_By"; Value = "SUBCO with ST control"; VariantName = "H7B3ZI"
+Change component parameters (AddParameter): Name = "Status"; Value = "Released"; VariantName = "H7B3ZI"
+Change component parameters (AddParameter): Name = "Value"; Value = "STM32H7B3ZIT6U"; VariantName = "H7B3ZI"
+Change component parameters (AddParameter): Name = "BMS_Part_Number"; Value = "9175294 (cut 2.0)"; VariantName = "H753ZI"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "H753ZI"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://tunmcdsvn.tun.st.com/Component_Datasheet_Library/Trunk/IC/STM_STM32L552ZET6QU"; VariantName = "H753ZI"
+Change component parameters (AddParameter): Name = "ECCN_EU"; Value = "5A002A4"; VariantName = "H753ZI"
+Change component parameters (AddParameter): Name = "ECCN_US"; Value = "5A992C"; VariantName = "H753ZI"
+Change component parameters (AddParameter): Name = "Internal_Part_Number"; Value = "MCD-01404"; VariantName = "H753ZI"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "STMICROELECTRONICS"; VariantName = "H753ZI"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "STM32H753ZIT6U"; VariantName = "H753ZI"
+Change component parameters (AddParameter): Name = "Package"; Value = "LQFP144"; VariantName = "H753ZI"
+Change component parameters (AddParameter): Name = "Part_Type"; Value = "IC"; VariantName = "H753ZI"
+Change component parameters (AddParameter): Name = "Provided_By"; Value = "SUBCO with ST control"; VariantName = "H753ZI"
+Change component parameters (AddParameter): Name = "Status"; Value = "Released"; VariantName = "H753ZI"
+Change component parameters (AddParameter): Name = "Value"; Value = "STM32H753ZIT6U"; VariantName = "H753ZI"
